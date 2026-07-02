@@ -108,7 +108,7 @@ AI IMPACT ON JOBS/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/ai-jobs-impact-2030.git
+git clone https://github.com/MemuAnalyzes/AI-IMPACT-ON-JOBS.git
 ```
 
 2. Install required libraries
